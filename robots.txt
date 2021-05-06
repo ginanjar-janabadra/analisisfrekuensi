@@ -1,0 +1,27 @@
+# Block semua untuk ....
+User-agent: *
+Disallow: /cotroller/
+Disallow: /core/
+Disallow: /css/
+Disallow: /img/
+Disallow: /js/
+Disallow: /node_modules/
+Disallow: /scss/
+Disallow: /vendor/
+
+# Izinkan semua untuk ....
+User-agent: *
+Allow: /
+Allow: /index.php
+Allow: /dok/
+Allow: /tentang.php
+Allow: /teori.php
+Allow: /404.php
+
+# Untuk Googlebot
+User-agent: Googlebot
+Disallow: /404.php
+
+# Peta Situs
+Sitemap: http://ginanjar-janabadra.cyou/sitemap.xml
+Sitemap: https://ginanjar-janabadra.cyou/sitemap.xml

