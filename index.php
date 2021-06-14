@@ -79,9 +79,10 @@
 
 <!-- Automatic element centering -->
 <div class="lockscreen-wrapper">
-  <div class="lockscreen-logo" >
+  <div class="lockscreen-logo" 
   <br></br>
-    <p><b>Analisis Frekuensi<br>Curah Hujan</b></p>
+    <p><img src="/img/Universitas-Janabadra.png" width="265" height="100" alt="Universitas Janabadra">
+    <p><b><h5>Analisis Frekuensi Curah Hujan</h5></b></p>
   </div>
   <!-- User name -->
   <div class="lockscreen-name"></div>

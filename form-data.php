@@ -54,7 +54,7 @@ function validasiAngka(){
 
 <div class="login-box">
   <div class="login-logo">
-    <p><b>Form Input</b> Data Hujan</p>
+    <p><h5>Form Input Data Hujan</h5></p>
   </div>
   <!-- /.login-logo -->
   <div class="card">
