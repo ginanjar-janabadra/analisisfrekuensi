@@ -49,7 +49,7 @@ function validasiAngka(){
 <body class="login-page" style="height: auto">
 
 <br><br><br>
-<img src="/img/cloud.png" width="300" height="122.16" alt="">
+<img src="/img/Universitas-Janabadra.png" width="265" height="100" alt="Universitas Janabadra">
 
 
 <div class="login-box">
