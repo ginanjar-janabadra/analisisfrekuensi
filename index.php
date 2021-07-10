@@ -14,9 +14,9 @@
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Analisis Frekuensi Curah Hujan</title>
+  <title>Analisis Frekuensi Besaran Rancangan | Ginanjar Dwi Prasetyo | Universitas Janabadra</title>
   <link rel="icon" type="img/jpg" href="img/g.png">
-  <meta name="description" content="Website analisis frekuensi curah hujan ini dibuat untuk mempermudah perhitungan statistik dalam hal ini kaitannya dengan Teknik Sipil."/>
+  <meta name="description" content="Website analisis frekuensi besaran rancangan ini dibuat untuk mempermudah perhitungan statistik dalam hal ini kaitannya dengan Teknik Sipil."/>
   <!-- Tell the browser to be responsive to screen width -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -82,7 +82,7 @@
   <div class="lockscreen-logo" 
   <br></br>
     <p><img src="/img/Universitas-Janabadra.png" width="265" height="100" alt="Universitas Janabadra">
-    <p><b><h5>Analisis Frekuensi Curah Hujan</h5></b></p>
+    <p><b><h5>Analisis Frekuensi Besaran Rancangan</h5></b></p>
   </div>
   <!-- User name -->
   <div class="lockscreen-name"></div>
