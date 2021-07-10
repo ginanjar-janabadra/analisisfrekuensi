@@ -89,7 +89,7 @@
                   <thead>
                   <tr>
                   <td colspan="2">
-                  <img src="/img/ginanjar.png" width="150" height="120" alt="Ginanjar Dwi Prasetyo">
+                  <img src="/img/ginanjar.png" width="144.33" height="192.33" alt="Ginanjar Dwi Prasetyo">
                   <div itemscope itemtype="https://schema.org/Person">
                   <a itemprop="sameAs" content="https://orcid.org/0000-0002-6766-0391" href="https://orcid.org/0000-0002-6766-0391" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;">
                   <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">0000-0002-6766-0391</a>
@@ -101,7 +101,7 @@
                   <tbody>
                   <tr>
                   <td style="vertical-align : middle; text-align:center">Judul Tugas Akhir</td>
-                  <td style="vertical-align : middle; text-align:center">Analisis Curah Hujan Kabupaten Sleman Berbasis Website</td>
+                  <td style="vertical-align : middle; text-align:center"><a href="/dok/16310083.pdf">Program Analisis Frekuensi Besaran Rancangan Berbasis Website</td>
                   </tr>
 
                   <tr>
@@ -121,7 +121,7 @@
 
                   <tr>
                   <td style="vertical-align : middle; text-align:center">Dosen Pembimbing Utama</td>
-                  <td style="vertical-align : middle; text-align:center">Nizar Achmad, S.T., M.Eng</td>
+                  <td style="vertical-align : middle; text-align:center">Nizar Achmad, S.T., M.Eng.</td>
                   </tr>
 
                   <tr>
@@ -160,7 +160,7 @@
       <footer class="sticky-footer bg-white">
         <div class="container my-auto">
           <div class="copyright text-center my-auto">
-            <span>Copyright &copy; Ginanjar Dwi Prasetyo 2020</span>
+            <span>Copyright &copy; 2020 Ginanjar Dwi Prasetyo | Teknik Sipil</span>
           </div>
         </div>
       </footer>
