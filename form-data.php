@@ -54,7 +54,7 @@ function validasiAngka(){
 
 <div class="login-box">
   <div class="login-logo">
-    <p><h5>Form Input Data Hujan</h5></p>
+    <p><h5>Form Input Data</h5></p>
   </div>
   <!-- /.login-logo -->
   <div class="card">
@@ -101,7 +101,7 @@ function validasiAngka(){
                 <?php for ($i=1; $i<= $_POST["j_data"]; $i++) :?>
                     <div class="input-group mb-1">
                             <div class="form-group" style="width: 275px;">
-                            <label for="nama<?= $i; ?>">Data Hujan <?= $i; ?> (mm) :</label><br>
+                            <label for="nama<?= $i; ?>">Data Hujan/Debit <?= $i; ?> </label><br>
                             <input style="text-align: center" class="form-control" min="0" type="float" id="datah<?= $i; ?>" name="datah[]" placeholder="Gunakan (.) untuk desimal" required>
                             <input class="form-control" type="number" id="jml_alat" name="jml_data" value="<?= $_POST["j_data"]; ?>" hidden="hidden">
                         </div>
@@ -134,7 +134,7 @@ function validasiAngka(){
 <footer class="sticky-footer">
         <div class="container my-auto">
           <div class="copyright text-center my-auto">
-            <span>Copyright &copy; Ginanjar Dwi Prasetyo 2020</span>
+            <span>Copyright &copy; 2020 Ginanjar Dwi Prasetyo | Teknik Sipil</span>
           </div>
         </div>
       </footer>
