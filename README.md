@@ -4,17 +4,17 @@ Website analisis frekuensi besaran rancangan dapat memberikan hasil hitungan ber
 
 ## Tugas Akhir
 
-Judul       : Program Analisis Frekuensi Besaran Rancangan Berbasis Website
-Studi Kasus : Data Hujan Kabupaten Sleman
-Oleh        : Ginanjar Dwi Prasetyo
-NIM         : 16310083
-Pembimbing  : Nizar Achmad, S.T., M.Eng.
-            : Titiek Widyasari, S.T., M.T.
-Penguji     : Sardi, S.T., M.T.
-Prodi       : Teknik Sipil
-Fakutas     : Teknik
-Univ.       : Universitas Janabadra
-Jurnal      : [Download PDF](https://analisis-frekuensi.herokuapp.com/dok/16310083.pdf/)
+* Judul       : Program Analisis Frekuensi Besaran Rancangan Berbasis Website
+* Studi Kasus : Data Hujan Kabupaten Sleman
+* Oleh        : Ginanjar Dwi Prasetyo
+* NIM         : 16310083
+* Pembimbing  : Nizar Achmad, S.T., M.Eng.
+*             : Titiek Widyasari, S.T., M.T.
+* Penguji     : Sardi, S.T., M.T.
+* Prodi       : Teknik Sipil
+* Fakutas     : Teknik
+* Univ.       : Universitas Janabadra
+* Jurnal      : [Download PDF](https://analisis-frekuensi.herokuapp.com/dok/16310083.pdf/)
 
 ## About
 
