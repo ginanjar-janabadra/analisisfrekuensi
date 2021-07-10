@@ -8,8 +8,8 @@ Website analisis frekuensi besaran rancangan dapat memberikan hasil hitungan ber
 * Studi Kasus : Data Hujan Kabupaten Sleman
 * Oleh        : Ginanjar Dwi Prasetyo
 * NIM         : 16310083
-* Pembimbing  : Nizar Achmad, S.T., M.Eng.
-*             : Titiek Widyasari, S.T., M.T.
+* Pembimbing Utama  : Nizar Achmad, S.T., M.Eng.
+* Pembimbing Pendamping : Titiek Widyasari, S.T., M.T.
 * Penguji     : Sardi, S.T., M.T.
 * Prodi       : Teknik Sipil
 * Fakutas     : Teknik
