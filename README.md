@@ -27,7 +27,7 @@ Copyright 2020 Ginanjar Dwi Prasetyo.
 
 ## Thanks to
 
-* Bapak ibuku, bapak Giman dan ibu Bidah Sukmini, serta keluargaku yang telah memberi doa serta dukungan. Berbentuk maupun tak berwujud, baik yang  diketahui maupun yang tersembunyi.
+* Bapak ibuku, serta keluargaku yang telah memberi doa serta dukungan. Berbentuk maupun tak berwujud, baik yang  diketahui maupun yang tersembunyi.
 * Kawan kawanku, Civil Engineering angkatan 2016, mas Deny, Ardy, Krisnanda, Ihsan, Inggit, Rino, Arya, Yance, Jusnik, Ngole, Rechar, Aji, Cahyo, Setyawan, Romo, mbak Rahma, Fivin, Ifah, Anggun, Migna, dan teman teman lain yang belum dapat disebutkan satu demi satu. Terimakasih atas bantuan dan support kalian, karena tanpa kalian penulis mungkin bisa berhenti sewaktu waktu.
 * Teman teman prodi teknik informatika, Universitas Janabadra, mbak Mirza, mas Teguh, Galang dengan bantuan kalian website-nya bisa terealisasi.
 * Serta setiap pihak yang telah berkenan mendukung penulis, diucapkan terimkasih.
