@@ -14,7 +14,7 @@ Website analisis frekuensi besaran rancangan dapat memberikan hasil hitungan ber
 * Prodi       : Teknik Sipil
 * Fakutas     : Teknik
 * Univ.       : Universitas Janabadra
-* Jurnal      : [Download PDF](https://analisis-frekuensi.herokuapp.com/dok/16310083.pdf/)
+* Ringkasan Tugas Akhir      : [Download PDF](https://analisis-frekuensi.herokuapp.com/dok/16310083.pdf)
 
 ## About
 
