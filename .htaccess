@@ -1,2 +1,2 @@
 RewriteEngine on
-ErrorDocument 404   https://analisis-frekuensi.herokuapp.com/404.php
+ErrorDocument 404 /404.php
