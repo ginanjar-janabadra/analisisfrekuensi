@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <script data-ad-client="ca-pub-6364348515009111" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>Analisis Frekuensi Curah Hujan</title>
