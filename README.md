@@ -1,6 +1,6 @@
 # [Program Analisis Frekuensi Besaran Rancangan](https://analisis-frekuensi.thedev.pp.ua/)
 
-Website analisis frekuensi besaran rancangan dapat memberikan hasil hitungan berupa pilihan distribusi, uji Chi Kuadrat dan Smirnov Kolmogorov, serta hujan rancangan. Berdasarkan kala ulang 2, 5, 10, 20, 25, 50, 100 tahun website ini memiliki akurasi yang tinggi. Namun, terdapat nilai kesalahan relatif yang cukup signifikan pada Log Person III. Batasan lainnya yaitu masukkan data harus berupa angka dan titik (.) sebagai penggunaan desimal, jika tidak website akan eror. Website dapat digunakan secara umum dan terbuka menggunakan data hujan atau debit dari berbagai wilayah.
+Website analisis frekuensi besaran rancangan dapat memberikan hasil hitungan berupa pilihan distribusi, uji Chi Kuadrat dan Smirnov Kolmogorov, serta hujan rancangan. Berdasarkan kala ulang 2 hingga 100 tahun website ini memiliki akurasi yang tinggi. Namun, terdapat nilai kesalahan relatif yang cukup signifikan pada Log Person III, input haruslah angka dan titik (.) sebagai desimalnya, jika tidak website bisa galat.
 
 ## Tugas Akhir
 
