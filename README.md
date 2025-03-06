@@ -14,7 +14,7 @@ Website menganalisis pilihan distribusi, uji Chi Kuadrat dan Smirnov Kolmogorov,
 * Prodi       : Teknik Sipil
 * Fakutas     : Teknik
 * Univ.       : Universitas Janabadra
-* Ringkasan Tugas Akhir      : [Download PDF](https://analisis-frekuensi.thedev.pp.ua/#)
+* Artikel     : [Lihat Publikasi](https://doi.org/10.5614/jts.2024.31.3.13)
 
 ## Social Media
 
